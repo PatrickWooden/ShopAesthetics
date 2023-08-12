@@ -8,7 +8,7 @@ This project is the creation of ShopAesthetics proposed online marketplace where
 Before running or working with this codebase please ensure you install node modules in the root project directory, the frontend directory and finally the backend directory!
 
 * *Date Created*: 20 06 2023
-* *Last Modification Date*: 20 06 2023
+* *Last Modification Date*: 11 08 2023
 * *Frontend Project URL*: https://csci-4177-grp-project-xproj-group-24.netlify.app/
 * *Backend Project URL*: https://csci4177-group-project-backend.onrender.com/api
 * *Git URL*: https://git.cs.dal.ca/mahindru/csci-4177-5709-xproj-group-24
